@@ -26,32 +26,38 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="145dp"
-                android:id="@+id/imageView" />
+                android:id="@+id/imageView"
+                android:src="@drawable/cpu" />
 
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="145dp"
-                android:id="@+id/imageView2" />
+                android:id="@+id/imageView2"
+                android:src="@drawable/ram" />
 
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="145dp"
-                android:id="@+id/imageView3" />
+                android:id="@+id/imageView3"
+                android:src="@drawable/vga" />
 
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="145dp"
-                android:id="@+id/imageView4" />
+                android:id="@+id/imageView4"
+                android:src="@drawable/hdd" />
 
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="145dp"
-                android:id="@+id/imageView5" />
+                android:id="@+id/imageView5"
+                android:src="@drawable/mainboard" />
 
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="145dp"
-                android:id="@+id/imageView6" />
+                android:id="@+id/imageView6"
+                android:src="@drawable/powersupply" />
 
         </LinearLayout>
 
